@@ -41,20 +41,3 @@ def get_info(request, response, id):
     "/u/id" => "/u/1"
 
 """
-
-
-
-
-
-
-
-lst = [12,3,4,5,6,7]
-target = 8
-
-answer = []
-
-for i in lst:
-    if target == i:
-
-        answer.append(-1)
-
